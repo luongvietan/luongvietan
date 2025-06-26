@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viet An</h1>
-<h3 align="center">Senior from Ton Duc Thang University</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Javascript, React, TailwindCSS, NodeJS, MongoDB**
+- 🌱 I’m currently working with **Javascript, React, TailwindCSS, NodeJS, MongoDB, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luongvietan](https://github.com/luongvietan)
 
